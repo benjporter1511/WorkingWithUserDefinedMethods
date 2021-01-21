@@ -1,0 +1,13 @@
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\bin\Debug\netcoreapp3.1\WorkingWithMethods.exe
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\bin\Debug\netcoreapp3.1\WorkingWithMethods.deps.json
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\bin\Debug\netcoreapp3.1\WorkingWithMethods.runtimeconfig.json
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\bin\Debug\netcoreapp3.1\WorkingWithMethods.runtimeconfig.dev.json
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\bin\Debug\netcoreapp3.1\WorkingWithMethods.dll
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\bin\Debug\netcoreapp3.1\WorkingWithMethods.pdb
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\obj\Debug\netcoreapp3.1\WorkingWithMethods.csprojAssemblyReference.cache
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\obj\Debug\netcoreapp3.1\WorkingWithMethods.AssemblyInfoInputs.cache
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\obj\Debug\netcoreapp3.1\WorkingWithMethods.AssemblyInfo.cs
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\obj\Debug\netcoreapp3.1\WorkingWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\obj\Debug\netcoreapp3.1\WorkingWithMethods.dll
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\obj\Debug\netcoreapp3.1\WorkingWithMethods.pdb
+C:\Users\Ben Porter\source\CSharp\WorkingWithMethods\WorkingWithMethods\obj\Debug\netcoreapp3.1\WorkingWithMethods.genruntimeconfig.cache
